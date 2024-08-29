@@ -20,6 +20,8 @@ body,html{
     background-size: contain;
     background-position: center;
     will-change: transform;
+   
+
 }
 
 .parallax-1{

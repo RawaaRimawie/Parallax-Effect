@@ -8,10 +8,15 @@ window.addEventListener('scroll', function() {
     parallax1.style.transform = 'translateY(' + (scrollTop * 0.3) + 'px)';
     parallax2.style.transform = 'translateY(' + (scrollTop * 0.4) + 'px)';
     parallax3.style.transform = 'translateY(' + (scrollTop * 0.9) + 'px)';
+
+
+
+    
     
 });
 
 
 
+  
 
 
